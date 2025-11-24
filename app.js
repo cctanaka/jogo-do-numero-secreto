@@ -1,3 +1,4 @@
+// Projeto de imersão Alura 2024
 let listaDeNumerosSorteados = [];
 let numeroLimite = 10;
 let numeroSecreto = gerarNumeroAleatorio();
